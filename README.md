@@ -5,6 +5,25 @@ Flags by Warren Woodhouse. Some by others. Flags that are recreated were redesig
 ## Atomfall
 ![Screenshot](https://raw.githubusercontent.com/warrenwoodhouse/flags/refs/heads/main/flags-atomfall-protocol.png) - Protocol (Flag design recreated by Warren Woodhouse)
 
+## BioShock
+### BioShock: Infinite
+![Screenshot](https://raw.githubusercontent.com/warrenwoodhouse/flags/refs/heads/main/flags-bioshockinfinite-cityofcolumbia.png) - City of Columbia (Flag design recreated by Warren Woodhouse)
+
+## Far Cry
+### Far Cry 3
+![Screenshot](https://raw.githubusercontent.com/warrenwoodhouse/flags/refs/heads/main/flags-farcry3-republicofrookislands.png) - Republic of Rook Islands (Flag design recreated by Warren Woodhouse)
+
+### Far Cry 4
+![Screenshot](https://raw.githubusercontent.com/warrenwoodhouse/flags/refs/heads/main/flags-farcry4-kingdomofkyrat.png) - Kingdom of Kyrat
+
+### Far Cry 5
+![Screenshot](https://raw.githubusercontent.com/warrenwoodhouse/flags/refs/heads/main/flags-farcry5-cult.png) - Cult (Flag design recreated by Warren Woodhouse)
+
+![Screenshot](https://raw.githubusercontent.com/warrenwoodhouse/flags/refs/heads/main/flags-farcry5-hopecounty.png) - Hope County
+
+### Far Cry 6
+![Screenshot](https://raw.githubusercontent.com/warrenwoodhouse/flags/refs/heads/main/flags-farcry6-republicofyara.png) - Republic of Yara
+
 ## Fallout
 ### Fallout 3
 ![Screenshot](https://raw.githubusercontent.com/warrenwoodhouse/flags/refs/heads/main/flags-fallout-unitedstatesofamerica.png) - United States of America
@@ -73,6 +92,12 @@ add
 # Real Life
 ![Screenshot](https://raw.githubusercontent.com/warrenwoodhouse/flags/refs/heads/main/flags-earth.png) - Earth (proposed flag)
 
+![Screenshot](https://raw.githubusercontent.com/warrenwoodhouse/flags/refs/heads/main/flags-uk.png) - United Kingdom of Great Britain and Northern Ireland
+
+![Screenshot](https://raw.githubusercontent.com/warrenwoodhouse/flags/refs/heads/main/flags-northumberland.png) - Kingdom of Northumberland
+
+![Screenshot](https://raw.githubusercontent.com/warrenwoodhouse/flags/refs/heads/main/flags-northumbria.png) - Kingdom of Northumbria (9th Century)
+
 ![Screenshot](https://raw.githubusercontent.com/warrenwoodhouse/flags/refs/heads/main/flags-republicofchina.png) - Republic of China
 
 ![Screenshot](https://raw.githubusercontent.com/warrenwoodhouse/flags/refs/heads/main/flags-pando-original.png) - P&O Ferries (original flag) (Flag design recreated by Warren Woodhouse)
@@ -87,3 +112,6 @@ add
 
 # copyright
 All content herein &copy;[Warren Woodhouse](https://youtube.com/user/warrenwoodhouse).
+
+## statement for fandom wikia
+As per the Warren Woodhouse License Agreement, Fandom Wikia is not permitted or allowed to share, upload or distribute any files from the Warren Woodhouse, in whole or in part, this also includes the regulations of Public Domain files by Warren Woodhouse as well. The reason for this is because they have removed my rights to have a wiki on their platform and therefore are no longer allowed to host my files and works as a result.
