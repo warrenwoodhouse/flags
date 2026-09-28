@@ -123,6 +123,10 @@ add
 ### Call of Duty: Ghosts
 ![Screenshot](https://raw.githubusercontent.com/warrenwoodhouse/flags/refs/heads/main/flags-callofdutyghosts-federationoftheamericas.png) - Federation of the Americas
 
+## The Elder Scrolls
+### The Elder Scrolls V: Skyrim
+![Screenshot](https://raw.githubusercontent.com/warrenwoodhouse/flags/refs/heads/main/flags-theelderscrollsvskyrim-thedarkbrotherhood.png) - The Dark Brotherhood
+
 # Fantasy
 ## United States of Warren
 ![Screenshot](https://raw.githubusercontent.com/warrenwoodhouse/flags/refs/heads/main/flags-unitedstatesofwarren.png) - USW United States of Warren (Flag design by Warren Woodhouse)
